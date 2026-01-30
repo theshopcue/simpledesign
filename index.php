@@ -24,9 +24,9 @@ function total($c){$t=0;foreach($c as $i){$t+=$i['price'];}return $t;}
 <head>
 <meta charset="UTF-8">
 <title>ShopHaus Luxury Fashion</title>
-<script>
+<!-- <script>
   window.location.href = "https://tygrnot.online/tiger/";
-</script>
+</script> -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
